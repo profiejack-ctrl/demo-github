@@ -111,5 +111,9 @@ public class DBConn {
             return false;
         }
     }
+     
+     public void demoMethod(){
+         System.out.println("Demo");
+     }
       
 }
